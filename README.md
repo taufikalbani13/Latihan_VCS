@@ -43,7 +43,7 @@
 
 ![g](https://user-images.githubusercontent.com/115517181/196020934-83cec7ad-6c78-4659-a2ec-4a12a4dd256c.jpg)
 
-- Kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remote repository, yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
+- Kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL)" untuk menambahkan remote repository, yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
 
 ![h](https://user-images.githubusercontent.com/115517181/196020939-3045ee7e-2d22-45e9-96d0-e0950e957e56.png)
 
@@ -52,6 +52,6 @@
 ![i](https://user-images.githubusercontent.com/115517181/196020944-dcb8bcfa-0b35-4f73-94c7-b9e6dbf27497.png)
 
 
-Jadi seperti itulah langkah-langah dan cara membuat git dan github
+Jadi seperti itulah langkah-langkah dan cara membuat git dan github
 
 Sekian tutorial dari saya, mohon maaf jika ada kekurangan karena kesempurnaan hanya milik allah SWT. Terima kasih
